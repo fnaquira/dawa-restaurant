@@ -1,0 +1,31 @@
+.profile-img {
+	text-align: center;
+}
+.profile-img img {
+	width: 55%;
+	height: 100%;
+}
+
+.profile-head h5 {
+	color: #333;
+}
+.profile-head h6 {
+	color: #0062cc;
+}
+.profile-rating {
+	font-size: 12px;
+	color: #818182;
+	margin-top: 5%;
+}
+.profile-rating span {
+	color: #495057;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+.profile-tab.active {
+	background: lightblue;
+}
+.profile-pane.active {
+	background: #fff;
+}
